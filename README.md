@@ -50,6 +50,6 @@ Each script includes:
 Made with by **Tharun Pandya**
 
 - Email: ktharunpandya@gmail.com  
-- LinkedIn : (https://linkedin.com/in/tharun-pandya-kodi)
+- LinkedIn : https://linkedin.com/in/tharun-pandya-kodi
 
 ---
