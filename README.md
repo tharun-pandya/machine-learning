@@ -38,18 +38,7 @@ You can use:
 
 ---
 
-## How to Run the Code
-
-Simply run each script individually:
-
-```bash
-python linear_regression.py
-python logistic_regression.py
-python knn.py
-```
-
 Each script includes:
-- A small dataset (or synthetic data)
 - Step-by-step model training
 - Final prediction
 - Accuracy or evaluation metrics
